@@ -16,7 +16,7 @@ public class SplashActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
 
-        Toast.makeText(SplashActivity.this, "Shruti  ki id dhundho", Toast.LENGTH_SHORT).show();
+        Toast.makeText(SplashActivity.this, "Shruti  ki maki chut", Toast.LENGTH_SHORT).show();
 
     }
 }
