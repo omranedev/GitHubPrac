@@ -13,7 +13,7 @@ class Home_Activity : AppCompatActivity() {
 
         setContentView(R.layout.activity_home)
 
-        Toast.makeText(this, "Welcome Friends", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Agli bar Harsh Sarkar", Toast.LENGTH_SHORT).show();
 
         }
     }
