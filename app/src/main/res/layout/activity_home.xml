@@ -7,15 +7,15 @@
     android:layout_height="match_parent"
     tools:context=".Home_Activity"
     android:gravity="center"
-    android:background="@color/orange">
+    android:background="@drawable/registration_backround_image">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Welcome "
         android:gravity="center"
-        android:textSize="27sp"
+        android:textSize="35sp"
         android:textStyle="bold"
-        android:textColor="@color/white"/>
+        android:textColor="@color/orange"/>
 
 </LinearLayout>
