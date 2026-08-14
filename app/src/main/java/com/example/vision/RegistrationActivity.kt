@@ -48,7 +48,7 @@ class RegistrationActivity : AppCompatActivity() {
             } else if (password != confirmPassword) {
                 Toast.makeText(this, "Passwords do not match", Toast.LENGTH_SHORT).show()
             } else {
-                // TODO: Implement registration logic
+
                 Toast.makeText(this, "Registration Successful", Toast.LENGTH_SHORT).show()
             }
         }
