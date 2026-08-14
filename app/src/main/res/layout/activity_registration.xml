@@ -7,4 +7,9 @@
     android:layout_height="match_parent"
     tools:context=".RegistrationActivity">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Tango"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
