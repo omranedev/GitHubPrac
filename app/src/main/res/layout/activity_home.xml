@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Welcome To everyone"
+        android:text="Welcome To everyone guys"
         android:gravity="center"
         android:textSize="27sp"
         android:textStyle="bold"/>
