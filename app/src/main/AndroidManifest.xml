@@ -12,9 +12,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Vision">
         <activity
-            android:name=".LoginActivity"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
@@ -28,9 +25,14 @@
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
         <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
             android:name=".RegistrationActivity"
-            android:exported="false"
-            android:windowSoftInputMode="adjustResize" />
+            android:exported="false" />
+        <activity
+            android:name=".TangoActivity"
+            android:exported="false" />
     </application>
 
 </manifest>
