@@ -11,6 +11,6 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-        Toast.makeText(LoginActivity.this, "Login Activity", Toast.LENGTH_SHORT).show();
+        Toast.makeText(LoginActivity.this, "Curve Uncle Jindabad", Toast.LENGTH_SHORT).show();
     }
 }
