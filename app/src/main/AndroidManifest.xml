@@ -12,10 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Vision">
         <activity
-            android:name=".ForgetActivity"
-            android:exported="false" />
-        <activity
-            android:name=".RegistrationActivity"
+            android:name=".LoginActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
@@ -26,6 +23,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".SplashActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
     </application>
 
 </manifest>
